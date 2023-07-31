@@ -11,7 +11,7 @@ const Project = ({ Project }: Props) => {
         <div className='OuterShadow rounded-xl flex flex-col gap-3 px-10 pt-10 pb-5'>
             <div className='flex justify-between '>
                 <h1 className='text-3xl font-bold'>{Project.name}</h1>
-                <p><span className='px-4 py-2.5 text-xs rounded-full InnerShadow2'>{Project.date}</span></p>
+                <p><span className='px-4 py-2.5 text-xs rounded-lg InnerShadow3'>{Project.date}</span></p>
             </div>
             <p>{Project.description}</p>
             <div className='flex justify-between'>
@@ -19,7 +19,7 @@ const Project = ({ Project }: Props) => {
                     <Image alt="check" src={Project.status === "Complete" ? Completed : Ongoing} width={37}></Image>
                     <p>{Project.status}</p>
                 </div>
-                <a className='OuterShadow_wp my-4 rounded-xl'>Check This Out!</a>
+                <a className='OuterShadow_btn InnerShadow3 p-[0.7rem] my-4 rounded-[0.5rem]' href={Project.link}>Check This Out!</a>
             </div>
         </div>
     )

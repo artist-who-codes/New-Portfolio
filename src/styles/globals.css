@@ -3,9 +3,26 @@
 @tailwind utilities;
 
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #E5E5E5;
     color: #2d2d2d;
+
+}
+
+.Animation {
+    animation: fadeIn 1s;
+}
+
+.AboutMe,
+.Skills,
+.Projects,
+.Qualifications,
+.Contactme {
+    scroll-margin-top: 8rem;
 }
 
 .NavShadow {
@@ -13,22 +30,20 @@ body {
     transition: box-shadow 0.2s ease-in-out, border-radius 0.2s ease-in-out, padding 0.2s ease-in-out;
 }
 
-.NavShadow:focus {
-    box-shadow: 0.3rem 0.3rem 0.5rem rgba(0, 0, 0, 0.5), -0.3rem -0.3rem 0.5rem rgba(255, 255, 255, 0.15);
-    border-radius: 0.5rem;
-    padding: 0.3rem 1rem 0.3rem 1rem;
-
-}
-
 .NavShadow:active {
-    box-shadow: 0.3rem 0.3rem 0.5rem rgba(0, 0, 0, 0.5), -0.3rem -0.3rem 0.5rem rgba(255, 255, 255, 0.15);
+    box-shadow: inset 0.3rem 0.3rem 0.5rem rgba(0, 0, 0, 0.5), inset -0.3rem -0.3rem 0.5rem rgba(255, 255, 255, 0.15);
     border-radius: 0.5rem;
-    padding: 0.3rem 1rem 0.3rem 1rem;
+    padding: 0.5rem 1rem 0.3rem 1rem;
 }
 
-.OuterShadow_wp {
+.OuterShadow_btn:active {
+    box-shadow: inset 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.1), inset -1rem -1rem 1rem rgba(255, 255, 255, 0.6);
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+}
+
+.OuterShadow_btn {
     box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.1), -1rem -1rem 2rem rgba(255, 255, 255, 0.7);
-    padding: 1rem;
 }
 
 .OuterShadow {
@@ -36,12 +51,31 @@ body {
 }
 
 
+.OuterShadow2 {
+    box-shadow: -0.5rem -0.5rem 1rem rgba(0, 0, 0, 0.1), 0.5rem 0.5rem 1rem rgba(255, 255, 255, 0.7);
+}
+
+
 .InnerShadow2 {
     box-shadow: inset 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.1), inset -1rem -1rem 1rem rgba(255, 255, 255, 0.6);
+}
+
+.InnerShadow3 {
+    box-shadow: inset 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.1), inset -0.2rem -0.2rem 0.5rem rgba(255, 255, 255, 0.6);
 }
 
 .InnerShadow {
     box-shadow: inset 1rem 1rem 1rem rgba(0, 0, 0, 0.1), inset -0.5rem -0.5rem 1rem rgba(255, 255, 255, 0.6);
     border-radius: 0.5rem;
     padding: 2rem 1rem 1rem 1rem;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }

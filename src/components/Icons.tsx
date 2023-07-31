@@ -63,8 +63,8 @@ const Icons = (props: Props) => {
                 <Image src={Svelte} alt="html" height={80}></Image>
                 <div className=''>Svelte</div>
             </div>
-            <div className='flex flex-col gap-2 items-center InnerShadow'>
-                <Image src={Tailwind} alt="html" width={80}></Image>
+            <div className='flex flex-col gap-2 items-center InnerShadow '>
+                <Image src={Tailwind} alt="html" height={80}></Image>
                 <div className=''>Tailwind CSS</div>
             </div>
             <div className='flex flex-col gap-2 items-center InnerShadow'>
