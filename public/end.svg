@@ -1,12 +1,12 @@
-<svg width="273" height="1298" viewBox="0 0 273 1298" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="273" height="1139" viewBox="0 0 273 1139" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_ddii_540_3)">
-<path d="M160 1208.6C160 1221.63 149.479 1232.2 136.5 1232.2C123.521 1232.2 113 1221.63 113 1208.6C113 1195.57 123.521 1185 136.5 1185C149.479 1185 160 1195.57 160 1208.6Z" fill="#2D2D2D"/>
+<path d="M160 1049.6C160 1062.63 149.479 1073.2 136.5 1073.2C123.521 1073.2 113 1062.63 113 1049.6C113 1036.57 123.521 1026 136.5 1026C149.479 1026 160 1036.57 160 1049.6Z" fill="#2D2D2D"/>
 </g>
 <g filter="url(#filter1_dd_540_3)">
-<rect x="126" y="306" width="22" height="902" rx="10" fill="#2D2D2D"/>
+<rect x="126" y="306" width="22" height="744" rx="10" fill="#2D2D2D"/>
 </g>
 <g filter="url(#filter2_ii_540_3)">
-<path d="M160 1207.6C160 1220.63 149.479 1231.2 136.5 1231.2C123.521 1231.2 113 1220.63 113 1207.6C113 1194.57 123.521 1184 136.5 1184C149.479 1184 160 1194.57 160 1207.6Z" fill="#2D2D2D"/>
+<path d="M159 1049.6C159 1062.63 148.479 1073.2 135.5 1073.2C122.521 1073.2 112 1062.63 112 1049.6C112 1036.57 122.521 1026 135.5 1026C148.479 1026 159 1036.57 159 1049.6Z" fill="#2D2D2D"/>
 </g>
 <g filter="url(#filter3_dd_540_3)">
 <ellipse cx="66.5" cy="66.7842" rx="66.5" ry="66.7842" transform="matrix(1 0 0 -1 70 322.372)" fill="#2D2D2D"/>
@@ -20,7 +20,7 @@
 <path d="M126 316.303C126 310.78 130.477 306.303 136 306.303H138C143.523 306.303 148 310.78 148 316.303V401.752C148 407.275 143.523 411.752 138 411.752H136C130.477 411.752 126 407.275 126 401.752V316.303Z" fill="#2D2D2D"/>
 <path d="M126 9.99999C126 4.47715 130.477 0 136 0H138C143.523 0 148 4.47715 148 10V188.846C148 194.369 143.523 198.846 138 198.846H136C130.477 198.846 126 194.369 126 188.846V9.99999Z" fill="#2D2D2D"/>
 <defs>
-<filter id="filter0_ddii_540_3" x="48" y="1120" width="177" height="177.201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_ddii_540_3" x="48" y="961" width="177" height="177.201" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="15" dy="15"/>
@@ -48,7 +48,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
 <feBlend mode="normal" in2="effect3_innerShadow_540_3" result="effect4_innerShadow_540_3"/>
 </filter>
-<filter id="filter1_dd_540_3" x="56" y="236" width="162" height="1042" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_dd_540_3" x="56" y="236" width="162" height="884" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="20" dy="20"/>
@@ -64,7 +64,7 @@
 <feBlend mode="normal" in2="effect1_dropShadow_540_3" result="effect2_dropShadow_540_3"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_540_3" result="shape"/>
 </filter>
-<filter id="filter2_ii_540_3" x="110" y="1184" width="55" height="52.2007" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_ii_540_3" x="109" y="1026" width="55" height="52.2007" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>

@@ -181,7 +181,7 @@ const Home = (props: Props) => {
                                 <div className='flex -mt-14'>
                                     <Image alt="line" src={mid} width={90}></Image>
                                     <div className='mt-14'>
-                                        <h2 className='text-lg font-bold rounded-lg pt-3'>Bachelors in Computer Science</h2>
+                                        <h2 className='text-lg font-bold rounded-lg '>Bachelors in Computer Science</h2>
                                         <p className='text-md font-medium'>Bishop Heber College, Trichy (August 2021 - May 2024)</p>
                                         <p className='text-md py-3 leading-[1.37rem] font-medium w-[55vw]'>Doing my Bachelors Degree in Bishop Heber College, Tiruchirapalli. Done an NPTEL course on Java. Learnt intermediate level knowledge of C, Python, Java, SQLPlus, PHP and so on. CGPA gained for 4 semesters is <span className='font-extrabold'>8.24</span> Contributed to Debian Day on 16th of August 2022 </p>
                                     </div>
