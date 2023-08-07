@@ -100,7 +100,7 @@ const Home = (props: Props) => {
                                 <div className='mx-5 mt-14'>
                                     <h2 className='text-3xl font-bold rounded-lg '>Secondary and Higher Secondary Education</h2>
                                     <p className='text-xl font-medium'> Sri GRM School, Thiruvarur (2018 and 2020)</p>
-                                    <p className='text-lg pt-4 leading-6 font-medium w-[60vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls' Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
+                                    <p className='text-lg pt-4 leading-6 font-medium w-[60vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@ const Home = (props: Props) => {
                                     <div className='mt-12'>
                                         <h2 className='text-lg font-bold rounded-lg pt-6 '>Secondary and Higher Secondary Education</h2>
                                         <p className='text-md font-medium'> Sri GRM School, Thiruvarur (2018 and 2020)</p>
-                                        <p className='text-md pt-2 leading-[1.37rem] font-medium w-[55vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls' Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
+                                        <p className='text-md pt-2 leading-[1.37rem] font-medium w-[55vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
                                     </div>
                                 </div>
                             </div>
