@@ -9,14 +9,14 @@ const Projects: ProjectType[] = [
     },
     {
         name: "Todo Manager",
-        description: "A sample project forlearning purposes, created to manage tasks, designed with Next.js. I learnt concepts that are new in Next.js like, Rendering methods, Routing Methods and API calls. This Project was done during my initial training period at my current company, and i started to learn UI/UX Designing",
+        description: "A sample project forlearning purposes, created to manage tasks, designed with Next.js. I learnt concepts that are new in Next.js like, Rendering methods, Routing Methods and API calls. This Project was done during my initial training period at my current company, and I started to learn UI/UX Designing",
         date: "May 2023",
         status: "Complete",
         link: "https://todo-manager-bqiki15o7-artist-who-codes.vercel.app/"
     },
     {
         name: "Project Viewing",
-        description: "Another Sample project for learning purposes, to implement Server side Rendering and Client side Rendering with Logic and implementing authentication for Server Side, Client Side and API Routes. Practiced MongoDB with this Project with the MongoDB Atlas. Crafted with Dynamic Routing and User Authentication",
+        description: "Another Sample project for learning purposes, to implement Server side rendering and Client side rendering with Logic and implementing authentication for Server Side, Client Side and API Routes. Practiced MongoDB with this Project with the MongoDB Atlas. Crafted with Dynamic Routing and User Authentication",
         date: "May 2023",
         status: "Complete",
         link: "https://github.com/artist-who-codes/Project-Viewing"
