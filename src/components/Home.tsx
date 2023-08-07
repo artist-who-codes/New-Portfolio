@@ -178,17 +178,17 @@ const Home = (props: Props) => {
                                         <p className='text-md pt-3 leading-[1.37rem] font-medium w-[55vw]'>Working as a Front-End Developer in a startup company, Fossfreaks Software Solutions. Gaining exposure to latest technologies and gaining hands-on experience in Front-End and Back-End Development with few Frameworks and Databases like Next.js and MongoDB. </p>
                                     </div>
                                 </div>
-                                <div className='flex -mt-16'>
+                                <div className='flex -mt-14'>
                                     <Image alt="line" src={mid} width={90}></Image>
                                     <div className='mt-14'>
-                                        <h2 className='text-lg font-bold rounded-lg pt-6'>Bachelors in Computer Science</h2>
+                                        <h2 className='text-lg font-bold rounded-lg pt-3'>Bachelors in Computer Science</h2>
                                         <p className='text-md font-medium'>Bishop Heber College, Trichy (August 2021 - May 2024)</p>
                                         <p className='text-md py-3 leading-[1.37rem] font-medium w-[55vw]'>Doing my Bachelors Degree in Bishop Heber College, Tiruchirapalli. Done an NPTEL course on Java. Learnt intermediate level knowledge of C, Python, Java, SQLPlus, PHP and so on. CGPA gained for 4 semesters is <span className='font-extrabold'>8.24</span> Contributed to Debian Day on 16th of August 2022 </p>
                                     </div>
                                 </div><div className='flex -mt-14'>
                                     <Image alt="line" src={end} width={90}></Image>
                                     <div className='mt-14'>
-                                        <h2 className='text-lg font-bold rounded-lg pt-2 '>Secondary and Higher Secondary Education</h2>
+                                        <h2 className='text-lg font-bold rounded-lg pt-3 '>Secondary and Higher Secondary Education</h2>
                                         <p className='text-md font-medium'> Sri GRM School, Thiruvarur (2018 and 2020)</p>
                                         <p className='text-md pt-2 leading-[1.37rem] font-medium w-[55vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
                                     </div>
