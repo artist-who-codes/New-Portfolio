@@ -201,7 +201,7 @@ const Home = (props: Props) => {
                             <h1 className='text-2xl font-bold'>Hire Me</h1>
                             <div className='flex justify-center pt-3 gap-2 text-sm font-bold'>
                                 <a className='flex flex-col items-center' href='https://github.com/artist-who-codes'><Image src={GitHub} alt="Github" width={120} className='-px-1'></Image> <p>GitHub</p></a>
-                                <a className='flex flex-col items-center' href='www.linkedin.com/in/abirami-muthukumarasamy-1b7483227'><Image src={LinkedIn} alt="Github" width={120} className='-px-1'></Image><p>LinkedIn</p></a>
+                                <a className='flex flex-col items-center' href='https://linkedin.com/in/abirami-muthukumarasamy-1b7483227'><Image src={LinkedIn} alt="Github" width={120} className='-px-1'></Image><p>LinkedIn</p></a>
                                 <a className='flex flex-col items-center' href='mailto:abimuthu.2114@gmail.com'><Image src={Gmail} alt="Github" width={120} className='-px-1'></Image><p>Gmail</p></a>
                             </div>
                         </section>
