@@ -121,7 +121,7 @@ const Home = (props: Props) => {
             <div>
                 {/* ---------------------NAVBAR--------------------- */}
 
-                <div className='m-1 fixed bg-[#2d2d2d] text-[#E5E5E5] flex justify-between text-xs rounded-full Animation px-3 gap-3 py-5 w-[95vw] font-medium'>
+                <div className='m-1 fixed bg-[#2d2d2d] text-[#E5E5E5] flex justify-between text-sm rounded-full Animation px-4 gap-2 py-5 w-[98vw] font-medium'>
                     <a href="#AboutMe" className="NavShadow" ><button>Myself</button></a>
                     <a href='#Skills' className="NavShadow" ><button>Skills</button></a>
                     <a href='#Projects' className="NavShadow" ><button>Projects</button></a>
@@ -171,7 +171,7 @@ const Home = (props: Props) => {
                             <h1 className='text-3xl font-bold'>My Journey</h1>
                             <div className='-ml-5'>
                                 <div className='flex'>
-                                    <Image alt="line" src={start} width={80}></Image>
+                                    <Image alt="line" src={start} width={90}></Image>
                                     <div className=''>
                                         <h2 className='text-lg font-bold rounded-lg pt-6'>Front-End Developer</h2>
                                         <p className='text-md font-medium'>FossFreaks (March 2023 - Present)</p>
@@ -179,16 +179,16 @@ const Home = (props: Props) => {
                                     </div>
                                 </div>
                                 <div className='flex -mt-16'>
-                                    <Image alt="line" src={mid} width={80}></Image>
+                                    <Image alt="line" src={mid} width={90}></Image>
                                     <div className='mt-14'>
                                         <h2 className='text-lg font-bold rounded-lg pt-6'>Bachelors in Computer Science</h2>
                                         <p className='text-md font-medium'>Bishop Heber College, Trichy (August 2021 - May 2024)</p>
-                                        <p className='text-md pt-3 leading-[1.37rem] font-medium w-[55vw]'>Doing my Bachelors Degree in Bishop Heber College, Tiruchirapalli. Done an NPTEL course on Java. Learnt intermediate level knowledge of C, Python, Java, SQLPlus, PHP and so on. CGPA gained for 4 semesters is <span className='font-extrabold'>8.24</span> Contributed to Debian Day on 16th of August 2022 </p>
+                                        <p className='text-md py-3 leading-[1.37rem] font-medium w-[55vw]'>Doing my Bachelors Degree in Bishop Heber College, Tiruchirapalli. Done an NPTEL course on Java. Learnt intermediate level knowledge of C, Python, Java, SQLPlus, PHP and so on. CGPA gained for 4 semesters is <span className='font-extrabold'>8.24</span> Contributed to Debian Day on 16th of August 2022 </p>
                                     </div>
                                 </div><div className='flex -mt-14'>
-                                    <Image alt="line" src={end} width={80}></Image>
-                                    <div className='mt-12'>
-                                        <h2 className='text-lg font-bold rounded-lg pt-6 '>Secondary and Higher Secondary Education</h2>
+                                    <Image alt="line" src={end} width={90}></Image>
+                                    <div className='mt-14'>
+                                        <h2 className='text-lg font-bold rounded-lg pt-2 '>Secondary and Higher Secondary Education</h2>
                                         <p className='text-md font-medium'> Sri GRM School, Thiruvarur (2018 and 2020)</p>
                                         <p className='text-md pt-2 leading-[1.37rem] font-medium w-[55vw]'>Did my Secondary and Higher Secondary Education in Thiruvarur Sri GRM Girls Higher Secondary School. Completed SSLC with <span className='font-extrabold'>92.6%</span>. Completed HSC with  <span className='font-extrabold'>94.5%</span></p>
                                     </div>
