@@ -111,7 +111,7 @@ const Home = (props: Props) => {
                         <h1 className='text-4xl font-bold px-28'>Contact Me</h1>
                         <div className='flex pt-5 gap-24 justify-center text-lg font-bold'>
                             <a className='flex flex-col items-center' href='https://github.com/artist-who-codes'><Image src={GitHub} alt="Github" width={120} className='-px-1'></Image> <p>GitHub</p></a>
-                            <a className='flex flex-col items-center' href='www.linkedin.com/in/abirami-muthukumarasamy-1b7483227'><Image src={LinkedIn} alt="Github" width={120} className='-px-1'></Image><p>LinkedIn</p></a>
+                            <a className='flex flex-col items-center' href='https://linkedin.com/in/abirami-muthukumarasamy-1b7483227'><Image src={LinkedIn} alt="Github" width={120} className='-px-1'></Image><p>LinkedIn</p></a>
                             <a className='flex flex-col items-center' href='mailto:abimuthu.2114@gmail.com'><Image src={Gmail} alt="Github" width={120} className='-px-1'></Image><p>Gmail</p></a>
                         </div>
                     </section>
