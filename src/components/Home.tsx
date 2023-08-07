@@ -8,7 +8,7 @@ import ProjectsData from '../data/Projects';
 import line from "../../public/line.svg"
 import line2 from "../../public/line2.svg"
 import line3 from "../../public/line3.svg"
-import LinkedIn from "../../public/Linkedin.svg"
+import LinkedIn from "../../public/LinkedIn.svg"
 import Gmail from "../../public/Mail.svg"
 import GitHub from "../../public/Github.svg"
 import start from '../../public/start.svg'
